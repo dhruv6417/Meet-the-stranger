@@ -25,3 +25,6 @@
 2. **Stranger Mode**:
    - Enable the “Allow connection from strangers” option to interact with random users.
    - Start a random chat or video call instantly.
+### Live Demo
+
+Check out the live demo of the application here: [Meet the Strangers](https://meet-the-stranger-wakt.onrender.com/)
